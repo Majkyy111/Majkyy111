@@ -21,8 +21,10 @@ Software engineer building desktop applications, internal platforms and automati
 
 ## 🚀 Highlights
 
+- 🎬 **MoonwakeMedia**: an unattended short-form video pipeline that produces and publishes a Short every day, with trend research from MoonwakeLens
 - 🖥️ **MoonwakeGear**: one Rust app for PC lighting, cooling and AirPods control
 - 📊 **Moonwake dashboard**: an internal control room for projects, metrics and jobs
+- 🛡️ **MoonwakeArmor**: a Lua code protection service with licensing and an admin dashboard
 - 🔐 **MoonwakeVault**: a Rust desktop app for managing multiple accounts with encrypted local storage
 
 ## 🧰 Skills
