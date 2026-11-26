@@ -26,6 +26,7 @@ Software engineer building desktop applications, internal platforms and automati
 - 📊 **Moonwake dashboard**: an internal control room for projects, metrics and jobs
 - 🛡️ **MoonwakeArmor**: a Lua code protection service with licensing and an admin dashboard
 - 🔐 **MoonwakeVault**: a Rust desktop app for managing multiple accounts with encrypted local storage
+- 🧪 **MoonwakeGen**: a Rust desktop app that makes Roblox test accounts one click at a time, through checked proxies
 
 ## 🧰 Skills
 
